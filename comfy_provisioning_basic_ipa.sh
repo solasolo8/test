@@ -25,6 +25,9 @@ NODES=(
     "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
     "https://github.com/WASasquatch/was-node-suite-comfyui"
     #"https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/twri/sdxl_prompt_styler"
+    "https://github.com/pythongosssss/ComfyUI-WD14-Tagger"
+    "https://github.com/LykosAI/ComfyUI-Inference-Core-Nodes"
     
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
 
