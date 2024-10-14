@@ -60,6 +60,8 @@ UNET_MODELS=(
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
     "https://civitai.com/api/download/models/748949?type=Model&format=SafeTensor"
+    "https://huggingface.co/timoshishi/control-lora-canny-rank256"
+    "https://huggingface.co/wawrencelu/control-lora-depth-rank256.safetensors"
 )
 
 VAE_MODELS=(
