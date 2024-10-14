@@ -108,13 +108,13 @@ CONTROLNET_MODELS=(
 
 CLIP_MODELS=(
     "https://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/model.safetensors"
-    "https://huggingface.co/laion/CLIP-ViT-bigG-14-laion2B-39B-b160k/tree/main"
-    "https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K/tree/main"
+    #"https://huggingface.co/laion/CLIP-ViT-bigG-14-laion2B-39B-b160k/tree/main"
+    #"https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K/tree/main"
 )
 
 IPADAPTER_MODELS=(
     "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus_sd15.safetensors?download=true"
-    "https://huggingface.co/h94/IP-Adapter/tree/main"
+    #"https://huggingface.co/h94/IP-Adapter/tree/main"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
