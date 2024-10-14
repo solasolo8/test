@@ -30,6 +30,8 @@ NODES=(
     "https://github.com/LykosAI/ComfyUI-Inference-Core-Nodes/"
     "https://github.com/LykosAI/ComfyUI-Inference-Core-Nodes/tree/main/"
     "https://github.com/Fannovel16/comfyui_controlnet_aux/"
+    "https://github.com/Fannovel16/comfyui_controlnet_aux"
+    "https://git-lfs.github.com/spec/v1"
     
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
 
