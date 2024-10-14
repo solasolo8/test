@@ -101,8 +101,8 @@ CONTROLNET_MODELS=(
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_sketch-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_style-fp16.safetensors"
 
-    #"https://huggingface.co/wawrencelu/control-lora-depth-rank256.safetensors"
-    #"https://huggingface.co/timoshishi/control-lora-canny-rank256.safetensors"
+    "https://huggingface.co/wawrencelu/control-lora-depth-rank256.safetensors"
+    "https://huggingface.co/timoshishi/control-lora-canny-rank256.safetensors"
 )
 
 CLIP_MODELS=(
