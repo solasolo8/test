@@ -103,6 +103,7 @@ CONTROLNET_MODELS=(
 
     "https://huggingface.co/wawrencelu/control-lora-depth-rank256.safetensors"
     "https://huggingface.co/timoshishi/control-lora-canny-rank256.safetensors"
+    "https://huggingface.co/timoshishi/control-lora-canny-rank256"
 )
 
 CLIP_MODELS=(
