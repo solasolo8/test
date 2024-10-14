@@ -28,6 +28,7 @@ NODES=(
     "https://github.com/twri/sdxl_prompt_styler"
     "https://github.com/pythongosssss/ComfyUI-WD14-Tagger"
     "https://github.com/LykosAI/ComfyUI-Inference-Core-Nodes"
+    "https://github.com/LykosAI/ComfyUI-Inference-Core-Nodes/tree/main"
     
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
 
