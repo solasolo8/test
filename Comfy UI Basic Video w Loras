@@ -82,9 +82,7 @@ LORA_MODELS=(
 
     #muppet mania https://civitai.com/models/68262/muppetmaniaai-konyconi trigger:MuppetManiaAI
     "https://civitai.com/api/download/models/72944?type=Model&format=SafeTensor"
-
     "https://civitai.com/api/download/models/298510?type=Model&format=SafeTensor"
-
     "https://civitai.com/api/download/models/255398?type=Model&format=SafeTensor"
 )
 
